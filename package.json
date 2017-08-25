@@ -1,6 +1,6 @@
 {
   "name": "http-status-validator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple way to validate HTTP Status code",
   "main": "index.mjs",
   "scripts": {
