@@ -1,0 +1,24 @@
+{
+  "name": "http-status-validator",
+  "version": "1.0.3",
+  "description": "Simple way to validate HTTP Status code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesrochati/http-status-validator.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "validator"
+  ],
+  "author": "Charles Rocha Dantas <charles.rochati@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlesrochati/http-status-validator/issues"
+  },
+  "homepage": "https://github.com/charlesrochati/http-status-validator#readme"
+}
