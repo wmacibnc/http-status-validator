@@ -17,13 +17,13 @@ $ npm install --save http-status-validator
 
 ```javascript
 //CommonsJS
-var isStatus = require('http-status-validator');
+var statusValidator = require('http-status-validator');
 
 //ES6 syntax
 import statusValidator from 'http-status-validator'
 
 var responseStatus = response.status;
-if (isStatus(responseStatus).equalsTo(200)) {
+if (statusValidator(responseStatus).equalsTo(200)) {
     //..
 }
 ```
