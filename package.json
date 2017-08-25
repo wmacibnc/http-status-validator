@@ -1,8 +1,8 @@
 {
   "name": "http-status-validator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple way to validate HTTP Status code",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
