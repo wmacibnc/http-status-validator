@@ -9,7 +9,7 @@ Simple way to validate HTTP Status code
 ## Installation
 
 ```sh
-$ npm install http-status-validator
+$ npm install --save http-status-validator
 ```
 
 
