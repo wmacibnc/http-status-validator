@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/l/express.svg)]()
 <img src="https://img.shields.io/badge/active__development-lightning-brightgreen.svg">
-
+<img src="https://img.shields.io/badge/dependencies-none-green.svg">
 
 Simple way to validate HTTP Status code
 
